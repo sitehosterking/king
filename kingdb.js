@@ -1,1 +1,1 @@
-var db = new PouchDB('https://sitehosterking.github.io/king/db');
+var db = new PouchDB('db');
